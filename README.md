@@ -12,7 +12,7 @@
   <h1 align="center">Gatekeeper One  [TEST]</h3>
 
   <p align="center">
-    🍍Hi  here you can found test for determinate gasleft() of gateTwo() modifier.
+    🍍Hi  here you can found  the test belongs to the Ethernaut series in the Gatekeeper One challenge, you can find the Gatekeeper One solution <a href="https://github.com/pinalikefruit/ethernaut/tree/13-gatekeeper-one">here</a> and  all the solved challenges of Ethernaut <a href="https://github.com/pinalikefruit/ethernaut"> here </a>
   </p>
 </div>
 
@@ -36,7 +36,7 @@ Clone this repo
 git clone https://github.com/pinalikefruit/gatekeeper-one-test
 cd gatekeeper-one-test
 ```
-
+Now, sustitute in the `gatekeeperOne.test.sol` file the address of gateKeeper One contract.
 ### Run test
 `forge test -vvvv --fork-url https://eth-goerli.g.alchemy.com/v2/<YOU_API_KEY>  --match-path test/gatekeeperOne.test.sol`
 
